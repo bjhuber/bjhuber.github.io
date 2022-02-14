@@ -1,0 +1,13 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+* {
+	transition-property: all;
+	transition-duration: 0.2s;
+}
+@media (prefers-reduced-motion) {
+	* {
+		transition-property: none;
+	}
+}
