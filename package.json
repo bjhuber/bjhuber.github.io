@@ -22,7 +22,7 @@
     "autoprefixer": "^10.4.2",
     "postcss": "^8.4.6",
     "snowpack": "^3.8.8",
-    "tailwindcss": "^3.0.22",
+    "tailwindcss": "^3.1.7",
     "xo": "^0.48.0"
   },
   "xo": {
